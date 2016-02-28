@@ -1,0 +1,4 @@
+*.csv
+*.pyc
+*.vim
+__pycache__

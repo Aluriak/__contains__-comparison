@@ -1,0 +1,7 @@
+# Containers \_\_contains\_\_ method comparison
+
+test and results:
+
+    make
+
+Some graphics are already generated in *results/* directory.
